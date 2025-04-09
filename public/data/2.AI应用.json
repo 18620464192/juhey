@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "name": "AI应用",
+      "icon": "public/img/AI资源.png",
+      "subCategories": ["AI模型","AI绘画","写作办公","视频音频","AI编程"],
+      "showTabs": true,
+      "links": [
+        {"title": "模型聚客", "description": "大模型广场多引擎搜索", "url": "https://bot.n.cn/", "icon": "public/img/通用.png", "subCategory": "AI模型"},
+        {"title": "文心一言", "description": "百度公司推出语言处理、内容生成、知识问答、文本创作", "url": "https://yiyan.baidu.com/", "icon": "public/img/文心一言.png", "subCategory": "AI模型"},
+        {"title": "腾讯元宝", "description": "腾讯元宝 - 轻松工作 多点生活", "url": "https://yuanbao.tencent.com/", "icon": "public/img/腾讯元宝.png", "subCategory": "AI模型"},
+        {"title": "豆包", "description": "字节跳动公司 独立开发的智能助手", "url": "https://www.doubao.com/", "icon": "public/img/豆包.png", "subCategory": "AI模型"},
+        {"title": "DeepSeek", "description": "幻方量化创立，专注于大语言模型的开发", "url": "https://chat.deepseek.com/", "icon": "public/img/DeepSeek.png", "subCategory": "AI模型"},
+        {"title": "ChatGPT", "description": "美国OpenAI研发的聊天机器人程序", "url": "https://chatgpt.com/", "icon": "public/img/ChatGPT.png", "subCategory": "AI模型"},
+        {"title": "Kimi大模型", "description": "适合做长文档分析及网页内容分析的大语言模型", "url": "https://kimi.moonshot.cn/", "icon": "public/img/Kimi大模型.png", "subCategory": "AI模型"},
+        {"title": "智谱清言", "description": "清华大学推出的大语言模型", "url": "https://chatglm.cn/", "icon": "public/img/智谱清言.png", "subCategory": "AI模型"},
+        {"title": "万知", "description": "清你的个人AI工作站，可以生成PPT", "url": "https://www.wanzhi.com/", "icon": "public/img/万知.png", "subCategory": "AI模型"},
+        {"title": "天工AI", "description": "昆仑万维推出 - 聊天写作对话的全能AI助手，搜索更深度，阅读更多彩", "url": "https://www.tiangong.cn/", "icon": "public/img/天工AI.png", "subCategory": "AI模型"},
+        {"title": "纳米AI", "description": "360大模型引擎搜索", "url": "https://www.n.cn/", "icon": "public/img/纳米AI.png", "subCategory": "AI模型"},
+        {"title": "讯飞星火", "description": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞", "url": "https://xinghuo.xfyun.cn/", "icon": "public/img/讯飞星火.png", "subCategory": "AI模型"},
+        {"title": "通义", "description": "阿里巴巴集团旗下的阿里云自主研发的超大规模语言模型", "url": "https://tongyi.aliyun.com/", "icon": "public/img/通义.png", "subCategory": "AI模型"},
+        {"title": "九章大模型", "description": "学而思教育解题和讲题算法为核心专为数学打造的大模型", "url": "https://playground.xes1v1.cn/", "icon": "public/img/九章大模型.png", "subCategory": "AI模型"},
+        {"title": "紫东太初", "description": "中科院专业领域侧重智能制造/科学", "url": "https://taichu-web.ia.ac.cn/", "icon": "public/img/紫东太初.png", "subCategory": "AI模型"},
+
+
+
+
+
+        {"title": "百度画一画", "description": "免费 AI 文字转图片平台 | 高效生成插画、海报和创意神器", "url": "https://image.baidu.com/", "icon": "public/img/百度画一画.png", "subCategory": "AI绘画"},
+        {"title": "即梦AI", "description": "图片生成、视频制作、故事创作、智能画布等功能", "url": "https://jimeng.jianying.com/", "icon": "public/img/即梦AI.png", "subCategory": "AI绘画"},
+        {"title": "通义万相", "description": "阿里云_AI创意作画_AI绘画_人工智能", "url": "https://tongyi.aliyun.com/", "icon": "public/img/通义.png", "subCategory": "AI绘画"},
+        {"title": "绘蛙", "description": "电商模特AI换脸，换衣服", "url": "https://www.ihuiwa.com/", "icon": "public/img/绘蛙.png", "subCategory": "AI绘画"},
+        {"title": "可图", "description": "快手公司的生图工具", "url": "https://kolors.kuaishou.com/", "icon": "public/img/可图.png", "subCategory": "AI绘画"},
+        {"title": "LiblibAI", "description": "LiblibAI-哩布哩布AI - 中国领先的AI创作平台", "url": "https://www.liblib.art/", "icon": "public/img/LiblibAI.png", "subCategory": "AI绘画"},
+        {"title": "WHEE", "description": "美图秀秀公司开发的AI创意工具", "url": "https://www.whee.com/", "icon": "public/img/WHEE.png", "subCategory": "AI绘画"},
+        {"title": "Domoa", "description": "Domoai | AI艺术生成器和视频到动画转换器", "url": "https://domoai.app/", "icon": "public/img/Domoa.png", "subCategory": "AI绘画"},
+        {"title": "360智绘", "description": "360公司的以文生图工具", "url": "https://aigc.360.com/", "icon": "public/img/360智绘.png", "subCategory": "AI绘画"},
+        {"title": "HiDream", "description": "HiDream.ai- 助你创造美好世界", "url": "https://hidreamai.com/", "icon": "public/img/HiDream.png", "subCategory": "AI绘画"},
+        {"title": "360鸿图", "description": "360公司的以文生图工具", "url": "https://tu.360.cn/", "icon": "public/img/360鸿图.png", "subCategory": "AI绘画"},
+
+
+        {"title": "360甄选", "description": "甄选AI工具合集", "url": "https://aistore.360.cn/#/", "icon": "public/img/360甄选.png", "subCategory": "写作办公"},
+        {"title": "360AI写作", "description": "360AI文案写作平台", "url": "https://copilot.360.cn/", "icon": "public/img/360AI写作.png", "subCategory": "写作办公"},
+        {"title": "星火知识库", "description": "科大讯飞的文档问答大模型", "url": "https://chatdoc.xfyun.cn/new-chat", "icon": "public/img/讯飞星火.png", "subCategory": "写作办公"},
+        {"title": "小悟空", "description": "字节跳动内容生成工具集", "url": "https://wukong.com/tool", "icon": "public/img/小悟空.png", "subCategory": "写作办公"},
+        {"title": "AiPPT", "description": "AiPPT - 全智能 AI 一键生成 PPT", "url": "https://www.aippt.cn/", "icon": "public/img/AiPPT.png", "subCategory": "写作办公"},
+        {"title": "通义", "description": "阿里巴巴集团旗下的阿里云自主研发的超大规模语言模型", "url": "https://tongyi.aliyun.com/efficiency/home", "icon": "public/img/通义.png", "subCategory": "写作办公"},
+        {"title": "新华妙笔", "description": "新华妙笔-AI公文写作平台", "url": "https://miaobi.xinhuaskl.com/", "icon": "public/img/新华妙笔.png", "subCategory": "写作办公"},
+        {"title": "橙篇AI", "description": "百度旗下文档写作工具", "url": "https://cp.baidu.com/", "icon": "public/img/橙篇AI.png", "subCategory": "写作办公"},
+        {"title": "ChatExce", "description": "Excel处理和数据分析", "url": "https://www.chatexcel.com/", "icon": "public/img/通用.png", "subCategory": "写作办公"},
+        {"title": "讯飞智文", "description": "AI在线生成PPT、Word", "url": "https://zhiwen.xfyun.cn/", "icon": "public/img/讯飞智文.png", "subCategory": "写作办公"},
+        {"title": "光速写作", "description": "作业帮旗下：全文生成、PPT生成、问答助手、写作助手", "url": "https://guangsuxie.com/", "icon": "public/img/光速写作.png", "subCategory": "写作办公"},
+        {"title": "火山写作", "description": "全文润色的AI智能写作", "url": "https://www.writingo.net/", "icon": "public/img/火山写作.png", "subCategory": "写作办公"},
+        {"title": "WPSAI", "description": "PPT一键生成 | AI写作文档 | AI表格处理", "url": "https://ai.wps.cn/", "icon": "public/img/WPSAI.png", "subCategory": "写作办公"},
+
+
+
+        {"title": "海螺视频", "description": "付费-海螺视频：每个想法都是一部大片", "url": "https://hailuoai.com/video", "icon": "public/img/海螺.png", "subCategory": "视频音频"},
+
+        {"title": "Speechma", "description": "在线语音的最佳免费文字|无限的AI声音", "url": "https://speechma.com/", "icon": "public/img/Speechma.png", "subCategory": "视频音频"},
+        {"title": "海绵音乐", "description": "海绵音乐 - 一键创作你的 AI 音乐”", "url": "https://www.haimian.com/", "icon": "public/img/海绵音乐.png", "subCategory": "视频音频"},
+        {"title": "音疯", "description": "昆仑万维推出的AI音乐创作平台", "url": "https://www.yinfeng.cn/", "icon": "public/img/音疯.png", "subCategory": "视频音频"},
+        {"title": "海螺语音", "description": "海螺语音：让文字栩栩如“声”", "url": "https://hailuoai.com/audio", "icon": "public/img/海螺.png", "subCategory": "视频音频"},
+        {"title": "天工AI音乐", "description": "天工AI音乐”", "url": "https://www.tiangong.cn/music", "icon": "public/img/天工AI.png", "subCategory": "视频音频"},
+
+
+
+
+        {"title": "DeepSeek", "description": "幻方量化创立，专注于大语言模型的开发", "url": "https://chat.deepseek.com/", "icon": "public/img/DeepSeek.png", "subCategory": "AI编程"},
+        {"title": "CodeGeeX", "description": "智谱AI推出的免费AI编程助手", "url": "https://codegeex.cn/", "icon": "public/img/CodeGeeX.png", "subCategory": "AI编程"},
+        {"title": "豆包MarsCode", "description": "豆包 MarsCode - 编程助手", "url": "https://www.marscode.cn/home", "icon": "public/img/豆包MarsCode.png", "subCategory": "AI编程"},
+        {"title": "文心快码", "description": "文心快码(Baidu Comate)·更懂你的智能代码助手", "url": "https://comate.baidu.com/zh", "icon": "public/img/文心一言.png", "subCategory": "AI编程"}
+
+
+      ]
+    }
+  ]
+}

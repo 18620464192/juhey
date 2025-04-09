@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "name": "在线应用",
+      "icon": "img/在线应用.png",
+      "showTabs": false,
+      "links": [
+        {"title": "figma", "description": "汉化网址https://www.figma.cool/cn", "url": "https://www.figma.com/", "icon": "img/figma.png"},
+        {"title": "即时设计", "description": "可云端编辑的专业级 UI 设计工具，为中国设计师量身打造", "url": "https://js.design/home", "icon": "img/即时设计.png"},
+        {"title": "莫高设计", "description": "产设研团队协同提效、设计稿秒转", "url": "https://mastergo.com/", "icon": "img/莫高.png"},
+
+        {"title": "removebg", "description": "免费在线抠图", "url": "https://www.remove.bg/zh", "icon": "img/抠图.png"},
+
+        {"title": "Photopea", "description": "在线源文件格式转换XD转PS,ai...", "url": "https://www.photopea.com/", "icon": "img/Photopea.png"},
+        {"title": "TinyPNG", "description": "在线PNG、JPG图片压缩", "url": "https://tinypng.com/", "icon": "img/TinyPNG.png"},
+        {"title": "图片压缩付费", "description": "在线图片压缩(jpg、jpeg、png、gif、webp、tiff)", "url": "https://www.yasuotu.com/", "icon": "img/图片压缩.png"},
+        {"title": "Speedpdf", "description": "Speedpdf - 提供免费PDF转换器", "url": "https://speedpdf.com/zh-cn/", "icon": "img/Speedpdf.png"},
+        {"title": "超级PDF", "description": "超级PDF|简单强大的PDF在线处理工具", "url": "https://xpdf.cn/", "icon": "img/超级PDF.png"}
+      ]
+    }
+  ]
+}

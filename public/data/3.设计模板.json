@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "name": "设计模板",
+      "icon": "public/img/素材.png",
+      "subCategories": ["UI模版", "视频音频"],
+      "showTabs": true,
+      "links": [
+        {"title": "摄图网", "description": "手机号登录", "url": "https://699pic.com/", "icon": "public/img/摄图网.png", "subCategory": "UI模版"},
+        {"title": "包图网", "description": "QQ登录", "url": "https://ibaotu.com/", "icon": "public/img/包图网.png", "subCategory": "UI模版"},
+        {"title": "千图网", "description": "QQ登录", "url": "https://www.58pic.com/", "icon": "public/img/千图网.png", "subCategory": "UI模版"},
+        {"title": "千库网", "description": "QQ和手机验证码登录", "url": "https://588ku.com/", "icon": "public/img/千库网.png", "subCategory": "UI模版"},
+        {"title": "亨设计", "description": "享设计是共享网络服务平台方", "url": "https://www.design006.com/", "icon": "public/img/亨设计.png", "subCategory": "UI模版"},
+        {"title": "红动网", "description": "专业在线设计服务平台", "url": "https://www.redocn.com/", "icon": "public/img/红动网.png", "subCategory": "UI模版"},
+        {"title": "觅知网", "description": "觅知网-版权图片素材网站,AI文档,AIPPT模板", "url": "https://www.51miz.com/", "icon": "public/img/觅知网.png", "subCategory": "UI模版"},
+        {"title": "众图网", "description": "众图网_专注精品设计素材模板,原创图库免费下载", "url": "https://www.ztupic.com/", "icon": "public/img/众图网.png", "subCategory": "UI模版"},
+        {"title": "素材国度", "description": "设计图库素材_高清图片素材_PS图片素材-素材国度", "url": "https://www.dc10000.com/", "icon": "public/img/素材国度.png", "subCategory": "UI模版"},
+        {"title": "原设计", "description": "原图网-最新潮的创意设计平台", "url": "https://www.yuantunet.com/", "icon": "public/img/原设计.png", "subCategory": "UI模版"},
+        {"title": "志设", "description": "志设_原创设计作品-分享拿收益（矢量图素材_海报模板_PSD源文件下载）-设计灵感素材网", "url": "https://www.zs9.com/", "icon": "public/img/志设.png", "subCategory": "UI模版"},
+        {"title": "90设计", "description": "90设计网，电商设计模板 PNG素材 背景图免费下载网站", "url": "https://90sheji.com/", "icon": "public/img/90设计.png", "subCategory": "UI模版"},
+        {"title": "办图网", "description": "办图网-高效办公提供海量PPT，文档，表格极速下载", "url": "https://www.888ppt.com/", "icon": "public/img/办图网.png", "subCategory": "UI模版"},
+        {"title": "熊猫办公", "description": "【熊猫办公】PPT模板，创意设计素材 高效办公在熊猫", "url": "https://www.tukuppt.com/", "icon": "public/img/熊猫办公.png", "subCategory": "UI模版"},
+        {"title": "豆皮儿UI", "description": "豆皮儿UI - UI设计素材垂直网站 - APP界面素材|网页模板|图标|插画素材下载", "url": "https://www.doupir.com/", "icon": "public/img/豆皮儿UI.png", "subCategory": "UI模版"},
+        {"title": "FreeUID", "description": "FreeUID，免费UI资源下载 – 最好的UI设计资源分享平台", "url": "https://www.freeuid.com/", "icon": "public/img/FreeUID.png", "subCategory": "UI模版"},
+        {"title": "UI图帮网", "description": "UI图帮网 - 高端设计模板素材下载网", "url": "https://www.uitubang.com/", "icon": "public/img/UI图帮网.png", "subCategory": "UI模版"},
+
+
+
+
+
+        {"title": "爱给网", "description": "爱给网_音效配乐_3D模型_视频素材_免费下载", "url": "https://www.aigei.com/", "icon": "public/img/爱给网.png", "subCategory": "视频音频"},
+        {"title": "新CG儿（NewCGer）", "description": "致力于为广大影视后期设计师打造相互交流、分享作品与经验的互动平台", "url": "https://www.newcger.com/", "icon": "public/img/新CG.png", "subCategory": "视频音频"},
+        {"title": "潮点视频", "description": "潮点视频_版权高清视频素材下载网站-正版可商用", "url": "https://shipin520.com/", "icon": "public/img/潮点视频.png", "subCategory": "视频音频"},
+        {"title": "幕后Muhou", "description": "幕后Muhou - AE视频模版_设计素材_视频素材_后期软件免费下载", "url": "https://muhou.net/", "icon": "public/img/幕后Muhou.png", "subCategory": "视频音频"},
+        {"title": "忆姿网", "description": "忆姿网 – 专注视频剪辑 PR模板 AE模板 FCPX插件", "url": "https://www.yiz.vip/", "icon": "public/img/忆姿网.png", "subCategory": "视频音频"}
+      ]
+    }
+  ]
+}
