@@ -20,9 +20,23 @@
         {"title": "90设计", "description": "90设计网，电商设计模板 PNG素材 背景图免费下载网站", "url": "https://90sheji.com/", "icon": "public/img/90设计.png", "subCategory": "UI模版"},
         {"title": "办图网", "description": "办图网-高效办公提供海量PPT，文档，表格极速下载", "url": "https://www.888ppt.com/", "icon": "public/img/办图网.png", "subCategory": "UI模版"},
         {"title": "熊猫办公", "description": "【熊猫办公】PPT模板，创意设计素材 高效办公在熊猫", "url": "https://www.tukuppt.com/", "icon": "public/img/熊猫办公.png", "subCategory": "UI模版"},
+        {"title": "图行天下", "description": "免费设计素材下载网站_平面设计模板素材中国共享平台", "url": "https://www.photophoto.cn/", "icon": "public/img/图行天下.png", "subCategory": "UI模版"},
+
         {"title": "豆皮儿UI", "description": "豆皮儿UI - UI设计素材垂直网站 - APP界面素材|网页模板|图标|插画素材下载", "url": "https://www.doupir.com/", "icon": "public/img/豆皮儿UI.png", "subCategory": "UI模版"},
         {"title": "FreeUID", "description": "FreeUID，免费UI资源下载 – 最好的UI设计资源分享平台", "url": "https://www.freeuid.com/", "icon": "public/img/FreeUID.png", "subCategory": "UI模版"},
         {"title": "UI图帮网", "description": "UI图帮网 - 高端设计模板素材下载网", "url": "https://www.uitubang.com/", "icon": "public/img/UI图帮网.png", "subCategory": "UI模版"},
+        {"title": "UI图帮网", "Free Figma": "免费 Figma 组件库", "url": "https://www.figcomponents.com/", "icon": "public/img/UI图帮网.png", "FreeFigma": "UI模版"},
+
+
+        {"title": "Lapa", "description": "国外着陆页设计灵感，学习设计及更多 - Lapa Ninja", "url": "https://www.lapa.ninja/", "icon": "public/img/Lapa.png", "subCategory": "UI模版"},
+        {"title": "Freebiesbug", "description": "国外精美且免费的网页设计素材", "url": "https://freebiesbug.com/", "icon": "public/img/Freebiesbug.png", "subCategory": "UI模版"},
+        {"title": "Vecteezy", "description": "国外矢量素材免费下载", "url": "https://www.vecteezy.com/", "icon": "public/img/Vecteezy.png", "subCategory": "UI模版"},
+        {"title": "WordPress", "description": "国外付费主题和网站模板", "url": "https://themeforest.net/", "icon": "public/img/WordPress.png", "subCategory": "UI模版"},
+        {"title": "Freepik", "description": "国外付费各类平面设计资源免费下载", "url": "hhttps://www.freepik.com/", "icon": "public/img/Freepik.png", "subCategory": "UI模版"},
+        {"title": "Hero Patterns", "description": "国外免费的可重复SVG背景图案，适用网页", "url": "https://heropatterns.com/", "icon": "public/img/Hero.png", "subCategory": "UI模版"},
+        {"title": "Pixeden", "description": "国外创意灵感设计资源", "url": "https://www.pixeden.com/", "icon": "public/img/Pixeden.png", "subCategory": ""},
+        {"title": "Free Resources", "description": "国外用于Figma的免费、不断扩展的设计系统和UI套件", "url": "https://www.premiumpixels.com/", "icon": "public/img/Free.png", "subCategory": "UI模版"},
+        {"title": "PSD Repo", "description": "国外免费PSD。+12,800 Photoshop模板 | PSD库", "url": "https://psdrepo.com/", "icon": "public/img/PSDRepo.png", "subCategory": "UI模版"},
 
 
 

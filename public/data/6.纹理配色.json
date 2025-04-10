@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "name": "纹理配色",
+      "icon": "public/img/纹理配色.png",
+      "showTabs": true,
+      "subCategories": ["配色", "纹理背景"],
+      "links": [
+        {"title": "Material", "description": "灵感配色", "url": "https://www.materialpalette.com/", "icon": "public/img/Material.png", "subCategory": "配色"},
+        {"title": "Paletton", "description": "同色 - 颜色方案设计工具", "url": "https://paletton.com/", "icon": "public/img/Paletton.png", "subCategory": "配色"},
+        {"title": "uiGradients", "description": "背景渐变下载", "url": "https://uigradients.com/", "icon": "public/img/description.png", "subCategory": "配色"},
+        {"title": "colorsandfonts", "description": "Web开发人员和数字设计师的颜色和版式工具", "url": "https://www.colorsandfonts.com/", "icon": "public/img/colorsandfonts.png", "subCategory": "配色"},
+        {"title": "Adobe Color", "description": "Adobe官方在线配色工具", "url": "https://color.adobe.com/zh/", "icon": "public/img/AdobeColor.png", "subCategory": "配色"},
+        {"title": "ColorZilla", "description": "CSS渐变效果在线生成器", "url": "https://www.colorzilla.com/", "icon": "public/img/ColorZilla.png", "subCategory": "配色"},
+        {"title": "Coolors", "description": "Coolors - 超快速的配色生成器！", "url": "https://coolors.co/", "icon": "public/img/Coolors.png", "subCategory": "配色"},
+        {"title": "色彩猎手", "description": "色彩猎手 - 为设计师和艺术家提供的色彩板！", "url": "https://www.colorhunt.co/", "icon": "public/img/色彩猎手.png", "subCategory": "配色"},
+        {"title": "Materia", "description": "材质设计颜色、调色板|材质UI", "url": "https://materialui.co/", "icon": "public/img/Materia.png", "subCategory": "配色"},
+
+
+        {"title": "Transparent", "description": "透明背景纹理样式下载", "url": "https://www.transparenttextures.com/", "icon": "public/img/Transparent.png", "subCategory": "纹理背景"}
+
+
+
+      ]
+    }
+  ]
+}

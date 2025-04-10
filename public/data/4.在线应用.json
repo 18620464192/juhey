@@ -6,16 +6,34 @@
       "showTabs": false,
       "links": [
         {"title": "figma", "description": "汉化网址https://www.figma.cool/cn", "url": "https://www.figma.com/", "icon": "public/img/figma.png"},
+        {"title": "Pixso", "description": " 新一代UI设计工具，替代Sketch，Figma，支持在线实时", "url": "https://pixso.cn/app/recent", "icon": "public/img/Pixso.png"},
         {"title": "即时设计", "description": "可云端编辑的专业级 UI 设计工具，为中国设计师量身打造", "url": "https://js.design/home", "icon": "public/img/即时设计.png"},
         {"title": "莫高设计", "description": "产设研团队协同提效、设计稿秒转", "url": "https://mastergo.com/", "icon": "public/img/莫高.png"},
+        {"title": "摹客", "description": "摹客，让设计和协作更快更简单", "url": "https://www.mockplus.cn/", "icon": "public/img/摹客.png"},
+        {"title": "墨刀", "description": "墨刀 - 适合产品经理的原型设计及协作平台", "url": "https://modao.cc/", "icon": "public/img/墨刀.png"},
 
         {"title": "removebg", "description": "免费在线抠图", "url": "https://www.remove.bg/zh", "icon": "public/img/抠图.png"},
 
         {"title": "Photopea", "description": "在线源文件格式转换XD转PS,ai...", "url": "https://www.photopea.com/", "icon": "public/img/Photopea.png"},
         {"title": "TinyPNG", "description": "在线PNG、JPG图片压缩", "url": "https://tinypng.com/", "icon": "public/img/TinyPNG.png"},
         {"title": "图片压缩付费", "description": "在线图片压缩(jpg、jpeg、png、gif、webp、tiff)", "url": "https://www.yasuotu.com/", "icon": "public/img/图片压缩.png"},
+        {"title": "图好快", "description": "在线图片压缩！支持GIF动图压缩，PNG压缩，JPG压缩", "url": "https://www.tuhaokuai.com/", "icon": "public/img/图好快.png"},
+        {"title": "Bigjpg", "description": "Bigjpg - AI人工智能图片无损放大", "url": "https://bigjpg.com/", "icon": "public/img/Bigjpg.png"},
+        {"title": "Cloudconvert", "description": "在线任意转换图片格式", "url": "https://cloudconvert.com/", "icon": "public/img/通用.png"},
+        {"title": "改图宝", "description": "改图宝 - 在线修改照片大小尺寸工具", "url": "https://www.gaitubao.com/", "icon": "public/img/改图宝.png"},
+
         {"title": "Speedpdf", "description": "Speedpdf - 提供免费PDF转换器", "url": "https://speedpdf.com/zh-cn/", "icon": "public/img/Speedpdf.png"},
-        {"title": "超级PDF", "description": "超级PDF|简单强大的PDF在线处理工具", "url": "https://xpdf.cn/", "icon": "public/img/超级PDF.png"}
+        {"title": "smallpdf", "description": "一个解决你所有PDF问题的免费方案", "url": "https://smallpdf.com/#r=app", "icon": "public/img/smallpdf.png"},
+        {"title": "超级PDF", "description": "超级PDF|简单强大的PDF在线处理工具", "url": "https://xpdf.cn/", "icon": "public/img/超级PDF.png"},
+
+
+        {"title": "Canva", "description": "在线设计模板", "url": "https://www.canva.cn/", "icon": "public/img/Canva.png"},
+        {"title": "AILOGO", "description": "AI智能LOGO创作", "url": "https://logo.logosq.cn/home", "icon": "public/img/AILOGO.png"},
+        {"title": "标智客", "description": "智能LOGO设计生成", "url": "https://www.logomaker.com.cn/", "icon": "public/img/标智客.png"},
+        {"title": "标小智", "description": "公司logo设计在线制作生成器 - 标小智", "url": "https://www.logosc.cn/", "icon": "public/img/标小智.png"},
+
+        {"title": "D5渲染器", "description": "实时光追渲染技术，重塑3D创作工作流", "url": "https://www.d5render.cn/", "icon": "public/img/D5渲染器.png"},
+        {"title": "草料二维码", "description": "草料二维码生成器", "url": "https://cli.im/", "icon": "public/img/草料二维码.png"}
       ]
     }
   ]

@@ -226,12 +226,16 @@ function initSidebar() {
 // 新代码 - 动态加载所有分类
 // 动态加载所有分类
 const categoryFiles = [
+    'public/data/99草稿.json',
     'public/data/1.常用便捷.json',
     'public/data/2.AI应用.json',
     'public/data/3.设计模板.json',
     'public/data/4.在线应用.json',
     'public/data/5.素材应用.json',
-    'public/data/99草稿.json'
+    'public/data/6.纹理配色.json',
+    'public/data/7.字体文字.json',
+    'public/data/8.设计规范.json'
+
 ];
 
 // 合并数据结构

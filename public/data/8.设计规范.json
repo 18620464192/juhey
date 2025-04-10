@@ -1,0 +1,18 @@
+{
+  "categories": [
+    {
+      "name": "设计规范",
+      "icon": "public/img/设计规范.png",
+      "showTabs": false,
+      "links": [
+        {"title": "微信文档", "description": "微信官方文档 | 微信开放文档", "url": "https://developers.weixin.qq.com/doc/", "icon": "public/img/微信.png"},
+        {"title": "Apple", "description": "人机界面指南 | Apple", "url": "https://developer.apple.com/cn/design/human-interface-guidelines/", "icon": "public/img/apple.png"},
+        {"title": "抖音开放平台", "description": "抖音开放平台 - 抖音小程序、字节小程序、头条小程序", "url": "https://developer.open-douyin.com/", "icon": "public/img/抖音.png"},
+        {"title": "微软", "description": "软设计的一套界面设计系统", "url": "https://fluent2.microsoft.design/", "icon": "public/img/微软.png"},
+        {"title": "支付宝", "description": "支付宝小程序核心体验白皮书 - 支付宝文档中心", "url": "https://opendocs.alipay.com/mini/design", "icon": "public/img/支付宝.png"},
+        {"title": "百度", "description": "百度智能小程序文档", "url": "https://smartprogram.baidu.com/docs/design/overview/introduction/", "icon": "public/img/百度.png"}
+
+      ]
+    }
+  ]
+}

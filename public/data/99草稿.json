@@ -10,23 +10,10 @@
       ],
       "links": [
 
+        {"title": "Photoshop", "description": "Photoshop教程资源", "url": "https://www.photoshoptutorials.ws/", "icon": "public/img/Photoshop.png", "subCategory": ""},
+        {"title": "Seeseed", "description": "设计导航Seeseed-无穷尽设计可能", "url": "https://www.seeseed.com/", "icon": "public/img/Seeseed.png", "subCategory": ""},
+        {"title": "设计库", "description": "设计库 网址导航 一站式设计网站导航，AI工具网址大全", "url": "https://www.shejiku.com/", "icon": "public/img/通用.png", "subCategory": ""}
 
-
-        {"title": "Transparent", "description": "透明背景纹理样式下载", "url": "https://www.transparenttextures.com/", "icon": "public/img/Transparent.png", "subCategory": ""},
-        {"title": "uiGradients", "description": "背景渐变下载", "url": "https://uigradients.com/", "icon": "public/img/description.png", "subCategory": ""},
-        {"title": "Material", "description": "灵感配色", "url": "https://www.materialpalette.com/", "icon": "public/img/Material.png", "subCategory": ""},
-        {"title": "colorsandfonts", "description": "Web开发人员和数字设计师的颜色和版式工具", "url": "https://www.colorsandfonts.com/", "icon": "public/img/colorsandfonts.png", "subCategory": ""},
-        {"title": "68Design", "description": "68Design - 找设计师远程工作专业平台", "url": "https://www.68design.net/", "icon": "public/img/68Design.png", "subCategory": ""},
-
-        {"title": "字体导航", "description": "字体导航-免费字体-商用图片-设计师实用百宝箱-字体传奇网（ZITICQ）", "url": "https://hao.ziticq.com/", "icon": "public/img/通用.png", "subCategory": ""},
-        {"title": "求字体网", "description": "免费字体下载_字体识别 - 求字体网", "url": "https://www.qiuziti.com/", "icon": "public/img/字体识别.png", "subCategory": ""},
-        {"title": "喵闪字库", "description": "免费下载中文字体的在线预览", "url": "https://www.miao3.cn/", "icon": "public/img/喵闪字库.png", "subCategory": ""},
-        {"title": "字体视界", "description": "字体授权服务和艺术字体大全网站 - 字体视界", "url": "https://www.17font.com/", "icon": "public/img/字体视界.png", "subCategory": ""},
-
-        {"title": "iSlide", "description": "PPT排版插件- 让PPT设计简单起来 | PPT模板下载平台", "url": "https://www.islide.cc/", "icon": "public/img/iSlide.png", "subCategory": ""},
-
-        {"title": "Dribbble", "description": "全球优秀设计师最佳交流展示平台", "url": "https://dribbble.com/", "icon": "public/img/Dribbble.png", "subCategory": ""},
-        {"title": "Behance", "description": "Adobe旗下设计师交流平台", "url": "https://www.behance.net/", "icon": "public/img/Behance.png", "subCategory": ""}
 
       ]
     }

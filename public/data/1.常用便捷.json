@@ -12,18 +12,14 @@
         {"title": "蓝湖", "description": "中国领先的产品设计协作与交付平台", "url": "https://lanhuapp.com/dashboard/", "icon": "public/img/蓝湖.png", "subCategory": "常用快捷"},
         {"title": "有道云笔记", "description": "多端同步的智能笔记与知识管理工具", "url": "https://note.youdao.com/", "icon": "public/img/有道云笔记.png", "subCategory": "常用快捷"},
         {"title": "百度翻译", "description": "百度翻译-200种语言互译、沟通全世界！", "url": "https://fanyi.baidu.com/", "icon": "public/img/百度翻译.png", "subCategory": "常用快捷"},
-        {"title": "摄图网", "description": "手机号登录", "url": "https://699pic.com/", "icon": "public/img/摄图网.png", "subCategory": "常用快捷"},
-        {"title": "包图网", "description": "QQ登录", "url": "https://ibaotu.com/", "icon": "public/img/包图网.png", "subCategory": "常用快捷"},
-        {"title": "千图网", "description": "QQ登录", "url": "https://www.58pic.com/", "icon": "public/img/千图网.png", "subCategory": "常用快捷"},
-        {"title": "千库网", "description": "QQ和手机验证码登录", "url": "https://588ku.com/", "icon": "public/img/千库网.png", "subCategory": "常用快捷"},
-        {"title": "亨设计", "description": "享设计是共享网络服务平台方", "url": "https://www.design006.com/", "icon": "public/img/亨设计.png", "subCategory": "常用快捷"},
         {"title": "虎课网", "description": "虎课网 - 设计、办公软件视频教程在线学习_ 每天免费学一课", "url": "https://huke88.com/", "icon": "public/img/虎课网.png", "subCategory": "常用快捷"},
         {"title": "优优教程网", "description": "优优教程网官网-免费自学AIGC就上优优网-Midjourney", "url": "https://uiiiuiii.com/", "icon": "public/img/优优教程网.png", "subCategory": "常用快捷"},
         {"title": "UICN", "description": "UICN用户体验设计平台", "url": "https://www.ui.cn/", "icon": "public/img/UICN.png", "subCategory": "常用快捷"},
         {"title": "致设计", "description": "致设计-百万设计师交流平台,设计师聚集地", "url": "https://www.zhisheji.com/", "icon": "public/img/致设计.png", "subCategory": "常用快捷"},
         {"title": "设计达人", "description": "设计达人 | 爱设计，爱分享。", "url": "https://www.shejidaren.com/", "icon": "public/img/设计达人.png", "subCategory": "常用快捷"},
         {"title": "设计导航", "description": "设计导航 - 精选最好的设计网站大全", "url": "https://hao.shejidaren.com/", "icon": "public/img/设计导航.png", "subCategory": "常用快捷"},
-        {"title": "标记狮", "description": "标记狮社区—UI设计、XD/Sketch/Figma教程及AIGC分享平台", "url": "https://mmmnote.com/", "icon": "public/img/标记狮.png", "subCategory": "常用快捷"},
+        {"title": "腾讯云", "description": "我的域名 - 域名注册 - 控制台", "url": "https://console.cloud.tencent.com/", "icon": "public/img/腾讯云.png", "subCategory": "常用快捷"},
+
 
 
 
@@ -31,6 +27,7 @@
 
         {"title": "哔哩哔哩", "description": "国内知名的视频弹幕网站", "url": "https://www.bilibili.com/", "icon": "public/img/哔哩哔哩.png", "subCategory": "WBE官网"},
         {"title": "京东", "description": "京东JD.COM-专业的综合网上购物商城,", "url": "https://www.jd.com/", "icon": "public/img/京东.png", "subCategory": "WBE官网"},
+        {"title": "淘宝网", "description": "淘宝网网上购物商城", "url": "https://www.taobao.com/", "icon": "public/img/淘宝网.png", "subCategory": "WBE官网"},
         {"title": "抖音", "description": "抖音让每一个人看见并连接更大的世界", "url": "https://www.douyin.com/", "icon": "public/img/抖音.png", "subCategory": "WBE官网"},
         {"title": "喜马拉雅", "description": "有声小说,听书,听小说,听故事,听广播 - 喜马拉雅", "url": "https://www.ximalaya.com/", "icon": "public/img/喜马拉雅.png", "subCategory": "WBE官网"},
         {"title": "腾讯视频", "description": "中国领先的在线视频媒体平台,海量高清视频在线观看", "url": "https://v.qq.com/", "icon": "public/img/腾讯视频.png", "subCategory": "WBE官网"},
@@ -41,29 +38,8 @@
         {"title": "百度网盘", "description": "我的同步网盘", "url": "https://pan.baidu.com/", "icon": "public/img/百度网盘.png", "subCategory": "WBE官网"},
         {"title": "Eagle", "description": "Eagle - 图片收集及管理必备工具", "url": "https://cn.eagle.cool/", "icon": "public/img/Eagle.png", "subCategory": "WBE官网"},
         {"title": "Billfish", "description": "Billfish素材管家--创意设计必备素材管理工具", "url": "https://www.billfish.cn/", "icon": "public/img/Billfish.png", "subCategory": "WBE官网"},
-        {"title": "dnf官网", "description": "地下城与勇士：创新世纪-DNF-官方网站-腾讯游戏", "url": "https://dnf.qq.com/main.shtml", "icon": "public/img/DNF.png", "subCategory": "WBE官网"}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     
-
-
-
-
-
-       
+        {"title": "dnf官网", "description": "地下城与勇士：创新世纪-DNF-官方网站-腾讯游戏", "url": "https://dnf.qq.com/main.shtml", "icon": "public/img/DNF.png", "subCategory": "WBE官网"},
+        {"title": "iSlide", "description": "PPT排版插件- 让PPT设计简单起来 | PPT模板下载平台", "url": "https://www.islide.cc/", "icon": "public/img/iSlide.png", "subCategory": ""}
       ]
     }
   ]
