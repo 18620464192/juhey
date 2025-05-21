@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "name": "字体文字",
+      "icon": "public/img/字体文字.png",
+      "showTabs": false,
+      "links": [
+        {"title": "字体导航", "description": "字体导航-免费字体-商用图片-设计师实用百宝箱-字体传奇网（ZITICQ）", "url": "https://hao.ziticq.com/", "icon": "public/img/通用.png", "subCategory": ""},
+        {"title": "求字体网", "description": "免费字体下载_字体识别 - 求字体网", "url": "https://www.qiuziti.com/", "icon": "public/img/字体识别.png", "subCategory": ""},
+        {"title": "搜字体网", "description": "在线识别图片字体,字体识别-在线找字体工具", "url": "https://so.17font.com/", "icon": "public/img/搜字体网.png", "subCategory": ""},
+        {"title": "喵闪字库", "description": "免费下载中文字体的在线预览", "url": "https://www.miao3.cn/", "icon": "public/img/喵闪字库.png", "subCategory": ""},
+        {"title": "字体视界", "description": "字体授权服务和艺术字体大全网站 - 字体视界", "url": "https://www.17font.com/", "icon": "public/img/字体视界.png", "subCategory": ""},
+        {"title": "字体天下", "description": "字体天下-提供各类字体的免费下载和在线预览服务", "url": "https://www.fonts.net.cn/", "icon": "public/img/字体天下.png", "subCategory": ""},
+        {"title": "360查字体版权", "description": "360查字体-查版权，免纠纷", "url": "https://fonts.safe.360.cn/", "icon": "public/img/360查字体.png", "subCategory": ""},
+        {"title": "优优字体", "description": "字体下载 - 优优教程网", "url": "https://uiiiuiii.com/tool/typeface", "icon": "public/img/优优教程网.png", "subCategory": ""},
+        {"title": "字由", "description": "千款免费字体一键使用，设计师必备字体工具", "url": "https://www.hellofont.cn/", "icon": "public/img/字由.png", "subCategory": ""}
+      ]
+    }
+  ]
+}
