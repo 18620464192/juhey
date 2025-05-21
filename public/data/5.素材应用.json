@@ -1,19 +1,40 @@
 {
   "categories": [
     {
-      "name": "图片素材",
+      "name": "素材应用",
       "icon": "public/img/图片素材.png",
-      "showTabs": false,
-      "subCategories": [
-        "前端",
-        "后端"
-      ],
+      "showTabs": true,
+      "subCategories": ["参考素材", "插画图标", "图片素材"],
       "links": [
 
-        {"title": "Unplash", "description": "美丽的免费图像和图片| Unplash", "url": "https://unsplash.com/", "icon": "public/img/Unplash.png", "subCategory": ""}
+
+        {"title": "Collect UI", "description": "UI设计灵感与资源分享平台", "url": "https://collectui.com/", "icon": "public/img/Collect.png", "subCategory": "参考素材"},
+        {"title": "花瓣", "description": "中国知名的创意内容分享与灵感社区", "url": "https://huaban.com", "icon": "public/img/huaban.png", "subCategory": "参考素材"},
+        {"title": "站酷", "description": "中国领先的综合性设计师社区与创意服务平台", "url": "https://www.zcool.com.cn/", "icon": "public/img/站酷.png", "subCategory": "参考素材"},
+        {"title": "Dribbble", "description": "全球优秀设计师最佳交流展示平台", "url": "https://dribbble.com/", "icon": "public/img/Dribbble.png", "subCategory": "参考素材"},
+        {"title": "Behance", "description": "Adobe旗下设计师交流平台", "url": "https://www.behance.net/", "icon": "public/img/Behance.png", "subCategory": "参考素材"},
+        {"title": "GameUI", "description": "专业的游戏UI设计师学习交流平台", "url": "https://www.gameui.net/", "icon": "public/img/GameUI.png", "subCategory": "参考素材"},
+        {"title": "UI8", "description": "UI设计资源、UI工具包、线框、图标等", "url": "https://ui8.net/", "icon": "public/img/UI8.png", "subCategory": "参考素材"},
+
+        {"title": "普象网", "description": "_普象工业设计小站_工业产品创意设计", "url": "https://www.puxiang.com/", "icon": "public/img/普象网.png", "subCategory": "参考素材"},
+        {"title": "68Design", "description": "68Design - 找设计师远程工作专业平台", "url": "https://www.68design.net/", "icon": "public/img/68Design.png", "subCategory": "参考素材"},
 
 
 
+        {"title": "Iconfinder", "description": "国外-百万优质图标插画搜索下载", "url": "https://www.iconfinder.com/", "icon": "public/img/Iconfinder.png", "subCategory": "插画图标"},
+        {"title": "iOS图标库", "description": "国外-iOS 图标库 | iOS 图标库", "url": "https://www.iosicongallery.com/", "icon": "public/img/iOS图标库.png", "subCategory": "插画图标"},
+
+
+
+        {"title": "Unplash", "description": "国外-美丽的免费图像和图片| Unplash", "url": "https://unsplash.com/", "icon": "public/img/Unplash.png", "subCategory": "图片素材"},
+        {"title": "Pinterest", "description": "全球主流图片社交媒体平台", "url": "https://www.pinterest.com/", "icon": "public/img/Pinterest.png", "subCategory": "图片素材"},
+        {"title": "Pixabay", "description": "国外免费540万+ 惊艳的免费图片，可随意使用", "url": "https://pixabay.com/", "icon": "public/img/Pixabay.png", "subCategory": "图片素材"},
+        {"title": "Foodiesfeed", "description": "国外免费食品图片", "url": "https://www.foodiesfeed.com/", "icon": "public/img/Foodiesfeed.png", "subCategory": "图片素材"},
+        {"title": "HDwallpapers", "description": "国外免费高清壁纸：下载高清壁纸（1080p 至 4K）", "url": "https://www.hdwallpapers.net/", "icon": "public/img/HDwallpapers.png", "subCategory": "图片素材"},
+        {"title": "pexels", "description": "国外免费素材图片", "url": "https://www.pexels.com/zh-cn/", "icon": "public/img/pexels.png", "subCategory": "图片素材"},
+        {"title": "Life of Pix", "description": "国外免费高分辨率摄影|像素生活", "url": "https://www.lifeofpix.com/", "icon": "public/img/Life.png", "subCategory": "图片素材"},
+        {"title": "图虫网", "description": "图虫网 - 优质摄影师交流社区", "url": "https://tuchong.com/", "icon": "public/img/图虫网.png", "subCategory": "图片素材"},
+        {"title": "BURST", "description": "国外20000多张免费库存照片和免版税图片", "url": "https://www.shopify.com/stock-photos", "icon": "public/img/BURST.png", "subCategory": "图片素材"}
       ]
     }
   ]
